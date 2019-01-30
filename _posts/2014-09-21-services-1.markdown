@@ -1,0 +1,16 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Death to the Stock Photo:<br>Special Thanks
+description: |
+---
+ 
+**Le gouvernement français redoute ouvertement une cyberattaque aux effets catastrophiques**
+		
+		
+		
+		Dans le secteur de la sécurité informatique, on est habitué depuis des années à entendre un discours alarmiste. Mais la tonalité des propos tenus cette année, à l’occasion de la conférence FIC 2019 à Lille, est particulièrement sombre, à commencer par ceux de Guillaume Poupard, directeur général de l’ANSSI. Le haut fonctionnaire parle sans détour d’un « état d’urgence ». « Aujourd’hui, la grande crainte que l’on a, c’est que l’espace numérique pourrait se militariser et on observe des attaquants de très haut niveau, probablement des Etats, qui rentrent dans les réseaux et prépositionnent des charges pour éventuellement faire la guerre demain », explique-t-il lors d’une conférence de presse. 
+
+
+[cliqué sur le lien pour lire la suite ](https://www.01net.com/actualites/le-gouvernement-francais-redoute-ouvertement-une-cyberattaque-aux-effets-catastrophiques-1617709.html)
