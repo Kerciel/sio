@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: deuxieme article
 description: |
 ---
  
